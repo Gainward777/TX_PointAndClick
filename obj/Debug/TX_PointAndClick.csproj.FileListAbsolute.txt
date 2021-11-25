@@ -1,0 +1,13 @@
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\obj\Debug\TX_PointAndClick.csprojAssemblyReference.cache
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\obj\Debug\Interop.Renga.dll
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\obj\Debug\TX_PointAndClick.csproj.ResolveComReference.cache
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\obj\Debug\TX_PointAndClick.Properties.Resources.resources
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\obj\Debug\TX_PointAndClick.csproj.GenerateResource.cache
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\obj\Debug\TX_PointAndClick.csproj.CoreCompileInputs.cache
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\bin\Debug\TX_PointAndClick.dll.config
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\bin\Debug\TX_PointAndClick.dll
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\bin\Debug\TX_PointAndClick.pdb
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\bin\Debug\Renga.NET.PluginUtility.dll
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\obj\Debug\TX_PointAndClick.csproj.CopyComplete
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\obj\Debug\TX_PointAndClick.dll
+D:\Plugins Renga\TX_PointAndClick\TX_PointAndClick\obj\Debug\TX_PointAndClick.pdb
